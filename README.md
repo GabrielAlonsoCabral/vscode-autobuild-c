@@ -6,7 +6,7 @@ The main purpose of this repository is help you to take advantage of the auto bu
 
 This repository is configured to automatically build the C++ files whenever you save a file. The provided `build.sh` script is executed automatically, which recursively compiles all the `.cpp` files in the directory and its subdirectories. This way, you can quickly see the compiled output and catch any build errors or warnings right within your development environment.
 
-To enable this auto build code onSave feature, make sure you have the "Run It On" extension installed in your VSCode. The extension is responsible for triggering the build script whenever a file is saved. If you don't have the extension installed, you can install it from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=webdone.run-it-on).
+To enable this auto build code onSave feature, make sure you have the "Run It On" extension installed in your VSCode. The extension is responsible for triggering the build script whenever a file is saved. If you don't have the extension installed, you can install it from the [VSCode Marketplace]([https://marketplace.visualstudio.com/items?itemName=webdone.run-it-on](https://marketplace.visualstudio.com/items?itemName=fsevenm.run-it-on)).
 
 ## Build and Run
 
